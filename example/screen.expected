@@ -1,0 +1,67 @@
+***********************************************************************************
+*                                                                                 *
+*  PPPPPPPPPPPP    L               U           U   M           M         A        *
+*  P           P   L               U           U   MM         MM        A A       *
+*  P           P   L               U           U   M M       M M       A   A      *
+*  P           P   L               U           U   M  M     M  M      A     A     *
+*  P           P   L               U           U   M   M   M   M     A       A    *
+*  PPPPPPPPPPPP    L               U           U   M    M M    M    A         A   *
+*  P               L               U           U   M     M     M   AAAAAAAAAAAAA  *
+*  P               L               U           U   M           M   A           A  *
+*  P               L               U           U   M           M   A           A  *
+*  P               LLLLLLLLLLLLL    UUUUUUUUUUU    M           M   A           A  *
+*                                                                                 *
+*            [Plu]gin-based [M]icrobiome [A]nalysis (formerly MiAMi)              *
+* (C) 2016, 2018 Bioinformatics Research Group, Florida International University  *
+*    Under MIT License From Open Source Initiative (OSI), All Rights Reserved.    *
+*                                                                                 *
+*    Any professionally published work using PluMA should cite the following:     *
+*                        T. Cickovski and G. Narasimhan.                          *
+*                Constructing Lightweight and Flexible Pipelines                  *
+*                 Using Plugin-Based Microbiome Analysis (PluMA)                  *
+*                     Bioinformatics 34(17):2881-2888, 2018                       *
+*                                                                                 *
+***********************************************************************************
+Found no Perl plugins
+[PluMA] Running Plugin: DEPTH2
+                         Sample DEPTH2_score
+1  TCGA-OR-A5J1-01A-11R-A29S-07    0.6494266
+2  TCGA-OR-A5J2-01A-11R-A29S-07    0.6910602
+3  TCGA-OR-A5J3-01A-11R-A29S-07    0.5801483
+4  TCGA-OR-A5J5-01A-11R-A29S-07    0.8158737
+5  TCGA-OR-A5J6-01A-31R-A29S-07    0.6799463
+6  TCGA-OR-A5J7-01A-11R-A29S-07    0.5764040
+7  TCGA-OR-A5J8-01A-11R-A29S-07    0.8826763
+8  TCGA-OR-A5J9-01A-11R-A29S-07    0.5428242
+9  TCGA-OR-A5JA-01A-11R-A29S-07    0.6020781
+10 TCGA-OR-A5JB-01A-11R-A29S-07    0.8852117
+11 TCGA-OR-A5JC-01A-11R-A29S-07    0.5101112
+12 TCGA-OR-A5JD-01A-11R-A29S-07    0.5853372
+13 TCGA-OR-A5JE-01A-11R-A29S-07    0.6605909
+14 TCGA-OR-A5JF-01A-11R-A29S-07    0.5000197
+15 TCGA-OR-A5JG-01A-11R-A29S-07    0.6002663
+16 TCGA-OR-A5JI-01A-11R-A29S-07    0.5621474
+17 TCGA-OR-A5JJ-01A-11R-A29S-07    0.5954812
+18 TCGA-OR-A5JK-01A-11R-A29S-07    0.6042174
+19 TCGA-OR-A5JL-01A-11R-A29S-07    0.6646888
+20 TCGA-OR-A5JM-01A-11R-A29S-07    0.6391849
+21 TCGA-OR-A5JO-01A-11R-A29S-07    0.7110333
+22 TCGA-OR-A5JP-01A-11R-A29S-07    0.6723793
+23 TCGA-OR-A5JQ-01A-11R-A29S-07    0.5292722
+24 TCGA-OR-A5JR-01A-11R-A29S-07    0.5091081
+25 TCGA-OR-A5JS-01A-11R-A29S-07    0.5571637
+26 TCGA-OR-A5JT-01A-11R-A29S-07    0.5477485
+27 TCGA-OR-A5JV-01A-11R-A29S-07    0.6669392
+28 TCGA-OR-A5JW-01A-11R-A29S-07    0.5443568
+29 TCGA-OR-A5JX-01A-11R-A29S-07    0.6110533
+30 TCGA-OR-A5JY-01A-31R-A29S-07    0.7199345
+31 TCGA-OR-A5JZ-01A-11R-A29S-07    0.6046908
+32 TCGA-OR-A5K0-01A-11R-A29S-07    0.8156622
+33 TCGA-OR-A5K1-01A-11R-A29S-07    0.4991038
+34 TCGA-OR-A5K2-01A-11R-A29S-07    0.5445761
+35 TCGA-OR-A5K3-01A-11R-A29S-07    0.5457131
+36 TCGA-OR-A5K4-01A-11R-A29S-07    0.6074466
+37 TCGA-OR-A5K5-01A-11R-A29S-07    0.6362665
+38 TCGA-OR-A5K6-01A-11R-A29S-07    0.5299102
+39 TCGA-OR-A5K8-01A-11R-A29S-07    0.5421751
+40 TCGA-OR-A5K9-01A-11R-A29S-07    0.6131568

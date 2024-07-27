@@ -1,0 +1,3 @@
+Prefix plugins/DEPTH2/example
+
+Plugin DEPTH2 inputfile example_DEPTH2.txt outputfile none
